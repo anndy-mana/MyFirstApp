@@ -22,6 +22,8 @@ public class task_1785 {
         else if (a >= 500 && a <= 999) System.out.println("zounds");
         else if (a >= 1000) System.out.println("legion");
 
+        in.close();
+
 
     }
 }

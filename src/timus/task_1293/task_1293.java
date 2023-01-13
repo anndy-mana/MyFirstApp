@@ -16,5 +16,8 @@ public class task_1293 {
 
         System.out.println(res);
 
+        in.close();
+
+
     }
 }

@@ -3,6 +3,7 @@ package timus.task_1409;
 import java.util.Scanner;
 
 public class task_1409 {
+
     public static void main(String[] args) {
 
 
