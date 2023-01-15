@@ -1,3 +1,6 @@
+//Вычислите a+b
+
+
 package timus.task_1000;
 
 import java.util.Scanner;
